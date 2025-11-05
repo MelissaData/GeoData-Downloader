@@ -9,7 +9,7 @@ For the latest Geo*Data release notes, please visit:
 ## Tested Environments
 - Windows 64-bit .NET Runtimes 8.0, Powershell 5.1
 - Ubuntu Linux 20.04.04 LTS 64-bit .NET 8.0
-- Melissa Geo*Data for 2025-Q3
+- Melissa Geo*Data for 2025-Q4
 
 ## Getting started
 
