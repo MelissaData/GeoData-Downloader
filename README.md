@@ -2,7 +2,7 @@
 
 This is the script that downloads geographic data for you to use.
 
-For the latest Geo*Data release notes, please visit:
+To view the latest Geo*Data release notes or to subscribe to product notifications, please visit:
 - https://releasenotes.melissa.com/reference-data/geo-data/
 
 
